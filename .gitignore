@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Special folder
+dist/
+android/
+ios/
+
+# Optional directory
+.npm
+.env
+.vscode

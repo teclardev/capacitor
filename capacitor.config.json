@@ -1,0 +1,11 @@
+{
+  "appId": "uz.sinov.ilova",
+  "appName": "mobile",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
